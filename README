@@ -1,0 +1,5 @@
+Download yolov3-320.weights and yolov3-320.cfg from the internet and place in the same directory as the main python file
+
+Create a virtual environment and install required dependencies listed in requirements.txt
+
+
